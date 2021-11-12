@@ -81,6 +81,4 @@ test:
 #
 production:
   <<: *default
-  database: le_monde_de_la_crepe_production
-  username: le_monde_de_la_crepe
-  password: <%= ENV['LE_MONDE_DE_LA_CREPE_DATABASE_PASSWORD'] %>
+  url: <%= ENV['POSTGRESQL_ADDON_URI'] %>

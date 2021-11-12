@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_1707eaf2-8018-4d9a-bb50-2727bde458ae",
+      "org_id": "user_92a7bfb2-1fbc-452e-bfa7-7fd53f63869d",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_1707eaf2-8018-4d9a-bb50-2727bde458ae.git",
+      "name": "le_monde_de_la_crepe",
+      "alias": "le_monde_de_la_crepe"
+    }
+  ]
+}
